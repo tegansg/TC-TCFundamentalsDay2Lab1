@@ -21,9 +21,7 @@ public class Greeting {
     	if(name.equals("Alice") || name.equals("Alice"))
     	{
     		System.out.print(name);
-
     	}
-    	
 
     	in.close();      
     }
